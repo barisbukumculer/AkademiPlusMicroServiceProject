@@ -27,27 +27,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FakePayment", "FakePayment"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{0794729B-A4CF-4735-AD17-DBE16C702F6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusMicroServiceProject.Catalog", "Services\Catalog\AkademiPlusMicroServiceProject.Catalog\AkademiPlusMicroServiceProject.Catalog.csproj", "{51834E9B-C120-4483-9049-33A49FB5215A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusMicroServiceProject.Catalog", "Services\Catalog\AkademiPlusMicroServiceProject.Catalog\AkademiPlusMicroServiceProject.Catalog.csproj", "{51834E9B-C120-4483-9049-33A49FB5215A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusMicroServiceProject.Basket", "Services\Basket\AkademiPlusMicroServiceProject.Basket\AkademiPlusMicroServiceProject.Basket.csproj", "{CDBBA876-8D08-4883-B0B2-BFACB768BBEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusMicroServiceProject.Basket", "Services\Basket\AkademiPlusMicroServiceProject.Basket\AkademiPlusMicroServiceProject.Basket.csproj", "{CDBBA876-8D08-4883-B0B2-BFACB768BBEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusMicroServiceProject.Discount", "Services\Discount\AkademiPlusMicroServiceProject.Discount\AkademiPlusMicroServiceProject.Discount.csproj", "{9AEE8321-91D2-4869-B152-D95D27EC3496}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusMicroServiceProject.Discount", "Services\Discount\AkademiPlusMicroServiceProject.Discount\AkademiPlusMicroServiceProject.Discount.csproj", "{9AEE8321-91D2-4869-B152-D95D27EC3496}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusMicroServiceProject.Order", "Services\Order\AkademiPlusMicroServiceProject.Order\AkademiPlusMicroServiceProject.Order.csproj", "{CF537095-8DA6-42D9-9D5B-49C1968A4319}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusMicroServiceProject.Order", "Services\Order\AkademiPlusMicroServiceProject.Order\AkademiPlusMicroServiceProject.Order.csproj", "{CF537095-8DA6-42D9-9D5B-49C1968A4319}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusMicroServiceProject.Order.Application", "Services\Order\AkademiPlusMicroServiceProject.Order.Application\AkademiPlusMicroServiceProject.Order.Application.csproj", "{CA15BD42-48BD-4537-9E76-181F1A6FD1AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusMicroServiceProject.Order.Application", "Services\Order\AkademiPlusMicroServiceProject.Order.Application\AkademiPlusMicroServiceProject.Order.Application.csproj", "{CA15BD42-48BD-4537-9E76-181F1A6FD1AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusMicroServiceProject.Order.Domain", "Services\Order\AkademiPlusMicroServiceProject.Order.Domain\AkademiPlusMicroServiceProject.Order.Domain.csproj", "{5131369E-2437-4DE1-8B4B-83D8CB9639C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusMicroServiceProject.Order.Domain", "Services\Order\AkademiPlusMicroServiceProject.Order.Domain\AkademiPlusMicroServiceProject.Order.Domain.csproj", "{5131369E-2437-4DE1-8B4B-83D8CB9639C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusMicroServiceProject.Order.Domain.Core", "Services\Order\AkademiPlusMicroServiceProject.Order.Domain.Core\AkademiPlusMicroServiceProject.Order.Domain.Core.csproj", "{4B4A46BF-CCD3-4B95-9214-26814F084268}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusMicroServiceProject.Order.Domain.Core", "Services\Order\AkademiPlusMicroServiceProject.Order.Domain.Core\AkademiPlusMicroServiceProject.Order.Domain.Core.csproj", "{4B4A46BF-CCD3-4B95-9214-26814F084268}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusMicroServiceProject.Order.Domain.InfraStructure", "Services\Order\AkademiPlusMicroServiceProject.Order.Domain.InfraStructure\AkademiPlusMicroServiceProject.Order.Domain.InfraStructure.csproj", "{A3E4A082-DC04-4D4C-BD9F-C71242E9DEFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusMicroServiceProject.Order.Domain.InfraStructure", "Services\Order\AkademiPlusMicroServiceProject.Order.Domain.InfraStructure\AkademiPlusMicroServiceProject.Order.Domain.InfraStructure.csproj", "{A3E4A082-DC04-4D4C-BD9F-C71242E9DEFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusMicroServiceProject.PhotoStock", "Services\PhotoStock\AkademiPlusMicroServiceProject.PhotoStock\AkademiPlusMicroServiceProject.PhotoStock.csproj", "{BA09EE66-C511-427E-91A5-C267051FC15B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusMicroServiceProject.PhotoStock", "Services\PhotoStock\AkademiPlusMicroServiceProject.PhotoStock\AkademiPlusMicroServiceProject.PhotoStock.csproj", "{BA09EE66-C511-427E-91A5-C267051FC15B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusMicroServiceProject.FakePayment", "Services\FakePayment\AkademiPlusMicroServiceProject.FakePayment\AkademiPlusMicroServiceProject.FakePayment.csproj", "{274A8F52-FEDD-4A65-B1D0-D2FAB5B2656E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusMicroServiceProject.FakePayment", "Services\FakePayment\AkademiPlusMicroServiceProject.FakePayment\AkademiPlusMicroServiceProject.FakePayment.csproj", "{274A8F52-FEDD-4A65-B1D0-D2FAB5B2656E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusMicroServiceProject.FrontEnds", "FrontEnds\AkademiPlusMicroServiceProject.FrontEnds\AkademiPlusMicroServiceProject.FrontEnds.csproj", "{5EEBB048-AF10-49EF-9A80-C424E0B79590}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusMicroServiceProject.FrontEnds", "FrontEnds\AkademiPlusMicroServiceProject.FrontEnds\AkademiPlusMicroServiceProject.FrontEnds.csproj", "{5EEBB048-AF10-49EF-9A80-C424E0B79590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusMicroServiceProject.Shared", "Shared\AkademiPlusMicroServiceProject.Shared\AkademiPlusMicroServiceProject.Shared.csproj", "{3DF8B008-DC4E-4566-BCAA-556A3570FCF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{5EEBB048-AF10-49EF-9A80-C424E0B79590}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EEBB048-AF10-49EF-9A80-C424E0B79590}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EEBB048-AF10-49EF-9A80-C424E0B79590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF8B008-DC4E-4566-BCAA-556A3570FCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF8B008-DC4E-4566-BCAA-556A3570FCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF8B008-DC4E-4566-BCAA-556A3570FCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF8B008-DC4E-4566-BCAA-556A3570FCF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,6 +127,7 @@ Global
 		{BA09EE66-C511-427E-91A5-C267051FC15B} = {54FA0816-A271-4971-B914-1287F07BD83B}
 		{274A8F52-FEDD-4A65-B1D0-D2FAB5B2656E} = {C6019721-8580-4200-82C0-0C6A3D7721DC}
 		{5EEBB048-AF10-49EF-9A80-C424E0B79590} = {2F648221-61E9-4AC6-B27F-55C64DC0443E}
+		{3DF8B008-DC4E-4566-BCAA-556A3570FCF5} = {BEFFBE71-616C-4269-81BD-1E0A9971B651}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56623171-F324-4088-B78D-8F6BB3B25EEB}
