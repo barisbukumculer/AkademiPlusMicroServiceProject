@@ -53,6 +53,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusMicroServiceProj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkademiPlusMicroServiceProject.IdentityServer", "IdentityServer\AkademiPlusMicroServiceProject.IdentityServer\AkademiPlusMicroServiceProject.IdentityServer.csproj", "{7D2E118C-0ABC-4F4E-B415-3F22C6A003B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademiPlusMicroServiceProject.Gateway", "Gateway\AkademiPlusMicroServiceProject.Gateway\AkademiPlusMicroServiceProject.Gateway.csproj", "{F8A5C6E2-640A-4432-8E26-A21738014366}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{7D2E118C-0ABC-4F4E-B415-3F22C6A003B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D2E118C-0ABC-4F4E-B415-3F22C6A003B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D2E118C-0ABC-4F4E-B415-3F22C6A003B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A5C6E2-640A-4432-8E26-A21738014366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A5C6E2-640A-4432-8E26-A21738014366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A5C6E2-640A-4432-8E26-A21738014366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A5C6E2-640A-4432-8E26-A21738014366}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -135,6 +141,7 @@ Global
 		{5EEBB048-AF10-49EF-9A80-C424E0B79590} = {2F648221-61E9-4AC6-B27F-55C64DC0443E}
 		{3DF8B008-DC4E-4566-BCAA-556A3570FCF5} = {BEFFBE71-616C-4269-81BD-1E0A9971B651}
 		{7D2E118C-0ABC-4F4E-B415-3F22C6A003B3} = {0699178B-852B-4318-A68C-A2A59B12251F}
+		{F8A5C6E2-640A-4432-8E26-A21738014366} = {14AFDA5E-C0D7-4438-944F-40C09F19FA3A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56623171-F324-4088-B78D-8F6BB3B25EEB}
